@@ -25,4 +25,7 @@ print(toplam)'''
 # print(type(result))
 
 
+isOnline=str(isOnline)
+print(isOnline)
+print(type(isOnline))
 
