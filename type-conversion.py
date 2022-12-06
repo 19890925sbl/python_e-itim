@@ -29,4 +29,6 @@ print(toplam)'''
 # print(isOnline)
 # print(type(isOnline))
 
-
+isOnline=int(isOnline)
+print(isOnline)
+print(type(isOnline))
