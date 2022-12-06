@@ -16,5 +16,7 @@ print(toplam)'''
 # print(type(name))
 # print(type(isOnline))
 
-
+result=x+y
+print(result)
+print(type(result))
 
