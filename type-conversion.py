@@ -20,7 +20,9 @@ print(toplam)'''
 # print(result)
 # print(type(result))
 
-result=str(x)+str(y)
-print(result)
-print(type(result))
+# result=str(x)+str(y)
+# print(result)
+# print(type(result))
+
+
 
